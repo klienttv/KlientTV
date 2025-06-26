@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaTech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1><img src="logo.png" alt="NovaTech Logo"> NovaTech</h1>
+    <p>Smart Solutions – Fast, Reliable & Free – 24/7 Online</p>
+</header>
+
+<main>
+    <div class="content">
+        <div class="column">
+            <h2>Welcome to NovaTech</h2>
+            <p>Your technology partner for IPTV, VPN, smart solutions, device repair, and more. </p>
+            
+            <h3>Our Services</h3>
+            <ul>
+                <li>IPTV & VPN Setup</li>
+                <li>Smart TV & Android Box Installation</li>
+                <li>PC/Laptop Repair & Virus Removal</li>
+                <li>Technical Support – Fast & Free</li>
+                <li>Consulting for Buying/Selling in Albania, Germany & more</li>
+            </ul>
+            
+            <h3>Contact</h3>
+            <p>Email: klienttval@gmail.com</p>
+            <p>Phone: +49 162 3748777</p>
+            <p><a href="https://wa.me/491623748777">WhatsApp Contact</a></p>
+            <p><a href="https://youtube.com/@klienttv-k2y" target="_blank">Visit our YouTube</a></p>
+        </div>
+
+        <div class="column">
+            <h2>Mirë se vini në NovaTech</h2>
+            <p>Partneri juaj për teknologjinë – IPTV, VPN, zgjidhje inteligjente, riparime dhe më shumë.</p>
+            
+            <h3>Shërbimet tona</h3>
+            <ul>
+                <li>Instalim IPTV & VPN</li>
+                <li>Instalim Smart TV & Android Box</li>
+                <li>Riparim PC/Laptop & Heqje Virusësh</li>
+                <li>Asistencë teknike – Shpejt & Falas</li>
+                <li>Këshillim për Blerje/Shitje në Shqipëri, Gjermani & më gjerë</li>
+            </ul>
+            
+            <h3>Kontakt</h3>
+            <p>Email: klienttval@gmail.com</p>
+            <p>Tel: +49 162 3748777</p>
+            <p><a href="https://wa.me/491623748777">Na shkruaj në WhatsApp</a></p>
+            <p><a href="https://youtube.com/@klienttv-k2y" target="_blank">Shiko kanalin tonë në YouTube</a></p>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2025 NovaTech24 – All rights reserved.</p>
+</footer>
+
+</body>
+</html>
